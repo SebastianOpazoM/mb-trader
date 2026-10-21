@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.coverage
+*.py[cod]
+*.db
+*.db-*
+*.sqlite*
+*.log
+TWS API/
+IBJts/
+dist/
+build/
+*.egg-info/
